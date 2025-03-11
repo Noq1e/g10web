@@ -1,0 +1,82 @@
+<!Doctype html>
+<html lang="en"
+<head>
+    
+    <zym>
+        <marquee scrolldelay="5ms" scrollamount="10ms"
+        style="width: 260px;height: 50px;">
+        >><i>This is a website</i><<
+        </marquee>
+        </zym>
+    <style>
+        zym {
+            color:red;
+            font-size: 20px;
+            margin-top: 10px;
+        }
+    </style>
+    <title>GROUP10</title>
+    <style>
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #399bcd;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-image:url('https://haowallpaper.com/link/common/file/previewFileImg/16510977189268864');
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+
+        }
+        .container {
+            max-width: 600px;
+            margin: 30px auto;
+            background: rgb(202, 198, 202);
+            padding: 28px;
+            border-radius: 10px;
+            background-image:url('https://haowallpaper.com/link/common/file/previewFileImg/16263609916378496');
+            box-shadow: 20px 20px 20px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #000000;
+        }
+        p {
+            color: #0c0c0c;
+            font-size: 25px;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+        .contact a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+        .profile-pic {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1><b>NONAME</b></h1>
+        <img src="https://haowallpaper.com/link/common/file/previewFileImg/15964575240342912" alt="picture" class="profile-pic">
+        <p><b>EmptyEmptyEmpty</b></p>
+        <p><b>Cat</b></p>
+        <div class="contact">
+            <p><b>404 not found</b></p>
+            <p><b>!!!777!!!</b></p>
+	    <a href="https://wallhaven.cc/search?q=id%3A37&categories=100&purity=100&sorting=random&order=desc&ai_art_filter=1&seed=jNoLpa&page=7"><b>Pictures</b></a>---
+	<a href="https://www.youtube.com/"><b>Youtube</b></a>---
+            <a href="https://portal.azure.com/#home"><b>Azure</b></a>
+
+        </div>
+    
+    </div>
+</body>
+</html>
